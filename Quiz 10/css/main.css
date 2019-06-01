@@ -1,0 +1,79 @@
+body{
+	background-color:#ccc;
+}
+
+.content{
+	width: 800px;
+	background-color: #fff;
+	margin: 60px auto 0 auto;
+	padding: 30px;
+	overflow: auto;
+
+}
+
+section{
+
+	background-color: red;
+	margin-bottom: 5px;
+	height: 200px;
+	text-align: center;
+	line-height: 5em;
+	font-size: 30px;
+	color: #fff;
+	font-weight: bold;
+	float: left;
+
+}
+
+.one{
+	background-color: purple;
+	width:50%;
+}
+
+
+.two{
+	background-color: magenta;
+	width:50%;
+}
+
+.three{
+	background-color: gold;
+	width:33.3%;
+}
+
+.four{
+	background-color: orange;
+	width:33.3%;
+}
+
+.five{
+	background-color: brown;
+	width:33.3%;
+}
+
+.six{
+	background-color: violet;
+	width:25%;
+}
+
+.seven{
+	background-color: red;
+	width:25%;
+}
+
+.eight{
+	background-color: grey;
+	width:25%;
+}
+
+.nine{
+	background-color: darkblue;
+	width:25%;
+}
+
+
+
+
+/*@media only screen and (max-width: 40em) {
+
+}*/
